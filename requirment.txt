@@ -1,0 +1,10 @@
+torch
+whisper
+soundfile
+indic-transliteration
+librosa
+numpy
+pandas
+matplotlib
+transformers
+datasets
